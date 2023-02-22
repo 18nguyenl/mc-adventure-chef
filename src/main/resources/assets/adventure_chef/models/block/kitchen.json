@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "adventure_chef:blocks/kitchen"
+  }
+}

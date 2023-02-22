@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "adventure_chef:blocks/chashu_front",
+    "side": "adventure_chef:blocks/chashu_side"
+  }
+}
